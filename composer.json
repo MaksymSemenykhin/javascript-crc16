@@ -1,0 +1,17 @@
+{
+    "name": "ftlmars/javascript-crc16",
+    "description": "CRC16 implementation in JavaScript",
+    "type": "library",
+    "license": "mit",
+    "minimum-stability": "dev",    
+    "authors": [
+        {
+            "name": "Maxym Semenykhin",
+            "email": "semenihin.maksim@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"ftlmars\\crc\\": ""}
+    },
+    "require": {}
+}
